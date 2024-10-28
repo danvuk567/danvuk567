@@ -13,7 +13,7 @@ My core Data Analyst skills are:
 
 # Projects
 
-Here are a few of my projects that I posted.
+Here are a few of my projects that worked on in the past and have recently posted.
 
 * SQL, Python, Power BI, Excel: [S&P 500 Stock Analysis](https://github.com/danvuk567/SP500-Stock-Analysis)
 * Power BI, Excel: [Predcitive Sales Forecasting](https://github.com/danvuk567/Predictive-Sales-Forecasting)
