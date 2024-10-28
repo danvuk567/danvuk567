@@ -31,7 +31,7 @@ Here are a few of my projects that I posted.
 * [Datacamp Associate Data Scientist](https://www.datacamp.com/completed/statement-of-accomplishment/track/5b8c8647048f9150e6ce597a98544a9ecb6009e3)
 * [Datacamp AI Business Fundamentals](https://www.datacamp.com/completed/statement-of-accomplishment/track/dbc64a8fcb55c097ea31f7e396dd1f19864c4e2c)
 * [Executive Programme in Algorithmic Trading](https://www.credential.net/daf2b3eb-8485-415d-94c7-19264059a51a#gs.gsa1g1)
-* [Concordia University Bachelor of Arts in Statistics]
+* Concordia University Bachelor of Arts in Statistics
 
 # Connect with Me
 
