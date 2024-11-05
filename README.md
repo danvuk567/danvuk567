@@ -1,6 +1,6 @@
 # Introduction
 
-Hi, I'm Dan. I’m a Data Analyst with expertise in data analysis and reporting, query optimization, ETL development, database design and data modelling. I have 6 years experience working as a Data Analyst for a Private Wealth Management company. 
+Hi, I'm Dan. I’m a Data Enthusiast with expertise in data analysis and reporting, query optimization, ETL development, database design and data modelling. I have 6 years experience working as a Data Analyst for a Private Wealth Management company. 
 I also have over 10 years experience as a Systems Analyst working with data integration, software integration and reporting for a large Retail company.
 My core Data Analyst skills are:
 
