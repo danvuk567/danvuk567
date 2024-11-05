@@ -22,7 +22,7 @@ Here are a few of my projects that worked on in the past and have recently poste
 
 * Language: SQL, Python, VBA
 * Database: SQL Server, Oracle
-* Visualization: Power BI
+* Visualization: Power BI, Excel
 * Scripting: Unix Bash Scripting, PowerShell
 
 # Education
