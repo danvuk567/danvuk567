@@ -1,7 +1,6 @@
 # Introduction
 
-Hi, I'm Dan. I’m a Data Enthusiast with expertise in data analysis and reporting, query optimization, ETL development, database design and data modelling. I have 6 years experience working as a Data Analyst for a Private Wealth Management company. 
-I also have over 10 years experience as a Systems Analyst working with data integration, software integration and reporting for a large Retail company.
+Hi, I'm Dan. I’m a Data Enthusiast who loves to develop creative and robust solutions to business problems using various technical tools. I have proficiency in data analysis and reporting, query optimization, ETL development, database design and data modelling. I have 6 years experience working as a Data Analyst for a Private Wealth Management company. I also have over 10 years experience working with various aspects of business intelligence, data integration, software development and reporting for a large Retail company.
 My core Data Analyst skills are:
 
 * Database development and querying data using SQL.
@@ -13,7 +12,7 @@ My core Data Analyst skills are:
 
 # Projects
 
-Here are a few of my projects that worked on in the past and have recently posted.
+Here are a few of my projects that worked on in the past.
 
 * SQL, Python, Power BI, Excel: [S&P 500 Stock Analysis](https://github.com/danvuk567/SP500-Stock-Analysis)
 * Power BI, Excel: [Predictive Sales Forecasting](https://github.com/danvuk567/Predictive-Sales-Forecasting)
