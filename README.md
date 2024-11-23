@@ -27,7 +27,7 @@ Here are a few of my projects and studies that worked on in the past.
 * Language: SQL, Python, VBA
 * Database: SQL Server, Oracle
 * Visualization: Power BI, Excel
-* Scripting: Unix Bash Scripting, PowerShell
+* Scripting: Linux Bash Scripting, PowerShell
 
 # Education
 
