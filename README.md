@@ -18,8 +18,8 @@ Here are a few of my projects and studies that worked on in the past.
 * SQL, Python, Power BI, Excel: [S&P 500 Stock Analysis](https://github.com/danvuk567/SP500-Stock-Analysis)
 * Power BI, Excel: [Predictive Sales Forecasting](https://github.com/danvuk567/Predictive-Sales-Forecasting)
 * Power BI, Python, Excel: [Global Supply Chain Analysis](https://github.com/danvuk567/Global-Supply-Chain-Analysis)
-* SQL: [SQL Best Practices](https://github.com/danvuk567/SQL-Best-Practices)
 * Linux Bash commands: [Linux Command Data Analytics](https://github.com/danvuk567/Linux-Command-Data-Analytics)
+* SQL: [SQL Best Practices](https://github.com/danvuk567/SQL-Best-Practices)
 
 
 #  Tools
