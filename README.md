@@ -11,7 +11,7 @@ My core Data Analyst skills are:
 * ETL development and ad-hoc data analysis using Python.
 * API integration and data processing automation using Python and PowerShell.
 
-# Projects
+# Projects and Studies
 
 Here are a few of my projects and studies that worked on in the past.
 
