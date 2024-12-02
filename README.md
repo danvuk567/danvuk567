@@ -16,8 +16,8 @@ My core Data Analyst skills are:
 Here are a few of my custom work-related projects, practice challenges, and knowledge-based studies that I worked on in the past.
 
 * SQL, Python, Power BI, Excel: [S&P 500 Stock Analysis](https://github.com/danvuk567/SP500-Stock-Analysis)
-* Power BI, Excel: [Predictive Sales Forecasting](https://github.com/danvuk567/Predictive-Sales-Forecasting)
 * Power BI, Python, Excel: [Global Supply Chain Analysis](https://github.com/danvuk567/Global-Supply-Chain-Analysis)
+* Power BI, Excel: [Predictive Sales Forecasting](https://github.com/danvuk567/Predictive-Sales-Forecasting)
 * Linux Bash commands: [Linux Command Data Analytics](https://github.com/danvuk567/Linux-Command-Data-Analytics)
 * SQL: [SQL-Fundamentals-and-Best-Practices](https://github.com/danvuk567/SQL-Fundamentals-and-Best-Practices)
 
