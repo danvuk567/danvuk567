@@ -7,13 +7,13 @@ My core Data Analyst skills are:
 * Database development and querying data using SQL.
 * Report generation and ad-hoc data analysis using SQL.
 * Dashboard development using Power BI.
+* ETL development and ad-hoc data analysis using Python and other industry ETL tools.
 * Data analysis and reporting using Excel and Excel VBA.
-* ETL development and ad-hoc data analysis using Python.
 * API integration and data processing automation using Python and PowerShell.
 
 # Projects and Studies
 
-Here are a few of my projects and studies that I worked on in the past.
+Here are a few of my custom work-related projects, practice challenges, and knowledge-based studies that I worked on in the past.
 
 * SQL, Python, Power BI, Excel: [S&P 500 Stock Analysis](https://github.com/danvuk567/SP500-Stock-Analysis)
 * Power BI, Excel: [Predictive Sales Forecasting](https://github.com/danvuk567/Predictive-Sales-Forecasting)
