@@ -20,7 +20,7 @@ Here are a few of my custom work-related projects, practice challenges, and know
 * Power BI, Excel: [Predictive Sales Forecasting](https://github.com/danvuk567/Predictive-Sales-Forecasting)
 * Linux Bash commands: [Linux Command Data Analytics](https://github.com/danvuk567/Linux-Command-Data-Analytics)
 * SQL: [SQL-Fundamentals-and-Best-Practices](https://github.com/danvuk567/SQL-Fundamentals-and-Best-Practices)
-
+* Excel VBA: [Excel VBA Useful Custom Functions](https://github.com/danvuk567/Excel_VBA-Useful-Custom-Functions)
 
 #  Tools
 
