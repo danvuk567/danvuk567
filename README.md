@@ -8,7 +8,7 @@ My core Data Analyst skills are:
 * Report generation and ad-hoc data analysis using SQL.
 * Dashboard development using Power BI.
 * ETL development and ad-hoc data analysis using Python and other industry ETL tools.
-* Data analysis and reporting using Excel and Excel VBA.
+* Data analysis using Python and reporting using Excel and Excel VBA.
 * API integration and data processing automation using Python and PowerShell.
 
 # Projects and Studies
