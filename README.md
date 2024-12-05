@@ -26,7 +26,7 @@ Here are a few of my custom work-related projects, practice challenges, and know
 
 * Language: SQL, Python, VBA
 * Database: SQL Server, Oracle
-* Visualization: Power BI, Excel
+* Visualization: Power BI, Excel, Plotly
 * Scripting: Linux Bash Scripting, PowerShell
 
 # Education
