@@ -27,7 +27,7 @@ Here are a few of my custom work-related projects, practice challenges, and know
 
 # 🔧 Tools
 
-* Language: SQL, Python, VBA, PL/SQL
+* Language: SQL, Python, VBA, PL/SQL   ![SQL](https://github.com/danvuk567/danvuk567/blob/main/images/sql-logo-png_seeklogo-505247.png?raw=true)
 * Database: SQL Server, Oracle
 * Visualization: Power BI, Excel, Plotly, Matplotlib, Seaborn
 * Scripting: Unix/Linux Bash, PowerShell
