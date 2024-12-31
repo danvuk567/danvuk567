@@ -1,4 +1,4 @@
-# Introduction
+# ✋ Introduction
 
 Hi, I'm Dan. I'm a data enthusiast passionate about developing creative and robust solutions to business challenges using a variety of technical tools. With 6 years of experience as a Data Analyst in the finance sector, I have honed new skills in data analysis, reporting, query optimization, ETL development, database design, and data modeling. In addition, I have extensive experience in the retail industry working across various aspects of business intelligence, data integration, software configuration, programming, and reporting. 
 
@@ -30,7 +30,7 @@ Here are a few of my custom work-related projects, practice challenges, and know
 * Visualization: Power BI, Excel, Plotly
 * Scripting: Linux Bash Scripting, PowerShell
 
-# Education
+# 🎓 Education
 
 * Concordia University Bachelor of Arts in Statistics
 * [Coursera Microsoft Power BI Data Analyst](https://www.coursera.org/account/accomplishments/specialization/certificate/N9DA5MVENNXH)
@@ -39,7 +39,7 @@ Here are a few of my custom work-related projects, practice challenges, and know
 * [Datacamp AI Business Fundamentals](https://www.datacamp.com/completed/statement-of-accomplishment/track/dbc64a8fcb55c097ea31f7e396dd1f19864c4e2c)
 * [Executive Programme in Algorithmic Trading](https://www.credential.net/daf2b3eb-8485-415d-94c7-19264059a51a#gs.gsa1g1)
 
-# Connect with Me
+# 🤝 Connect with Me
 
 [Linkedin](https://www.linkedin.com/in/danvukota/)
 
