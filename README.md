@@ -27,10 +27,10 @@ Here are a few of my custom work-related projects, practice challenges, and know
 
 # 🔧 Tools
 
-* Language: SQL, Python, VBA
+* Language: SQL, Python, VBA, PL/SQL
 * Database: SQL Server, Oracle
-* Visualization: Power BI, Excel, Plotly
-* Scripting: Unix/Linux Bash Scripting, PowerShell
+* Visualization: Power BI, Excel, Plotly, Matplotlib, Seaborn
+* Scripting: Unix/Linux Bash, PowerShell
 
 # 🎓 Education
 
