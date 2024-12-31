@@ -1,3 +1,5 @@
+[banner](https://github.com/danvuk567/danvuk567/blob/main/images/github_banner.jpg)
+
 # ✋ Introduction
 
 Hi, I'm Dan. I'm a data enthusiast passionate about developing creative and robust solutions to business challenges using a variety of technical tools. With 6 years of experience as a Data Analyst in the finance sector, I have honed new skills in data analysis, reporting, query optimization, ETL development, database design, and data modeling. In addition, I have extensive experience in the retail industry working across various aspects of business intelligence, data integration, software configuration, programming, and reporting. 
