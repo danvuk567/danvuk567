@@ -43,7 +43,7 @@ Here are a few of my custom work-related projects, practice challenges, and know
 
 # 🤝 Connect with Me
 
-[Linkedin](https://www.linkedin.com/in/danvukota/)
+![Linkedin Logo](https://github.com/danvuk567/danvuk567/blob/main/images/LinkedIn.png?raw=true) [Linkedin](https://www.linkedin.com/in/danvukota/)
 
   
 
