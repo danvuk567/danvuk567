@@ -13,6 +13,8 @@ Hi, I'm Dan. I'm a data enthusiast passionate about developing creative and robu
 * Data analysis using Python, Advanced Excel and Excel VBA.
 * API integration and data processing automation using Python, Unix/Linux, PowerShell.
 
+# 📚 My Knowledge Base Guides (PDF format) 
+
 # 📊 Projects and Studies
 
 Here are a few of my custom work-related projects, practice challenges, and knowledge-based studies that I worked on in the past.
