@@ -9,7 +9,7 @@ Hi, I'm Dan. I'm a data enthusiast passionate about developing creative and robu
 * Database development and querying data using SQL.
 * Report generation and ad-hoc data analysis using SQL.
 * Dashboard development using Power BI.
-* ETL development and ad-hoc data analysis using Python and other industry ETL tools.
+* ETL development using Python, Power Query, and other industry ETL tools.
 * Data analysis using Python, Advanced Excel and Excel VBA.
 * API integration and data processing automation using Python, Unix/Linux, PowerShell.
 
