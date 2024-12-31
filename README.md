@@ -13,7 +13,7 @@ Hi, I'm Dan. I'm a data enthusiast passionate about developing creative and robu
 * Data analysis using Python, Advanced Excel and Excel VBA.
 * API integration and data processing automation using Python, Unix/Linux, PowerShell.
 
-# 📚 My Documented Knowledge Base Guides (PDF format) 
+# 📝 My Documented Knowledge Base Guides (PDF format) 
 
 * Using Python in Power BI: [Using Python in Power BI](https://github.com/danvuk567/danvuk567/blob/main/Files/Using_Python_In_Power_BI.pdf)
 * SQL Performance Optimization Tips Part 1: [SQL Performance Optimization Tips Part 1](https://github.com/danvuk567/danvuk567/blob/main/Files/SQL_Performance_Optimization_Tips_Part1.pdf)
