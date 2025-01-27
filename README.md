@@ -19,7 +19,7 @@ Hi, I'm Dan. I'm a data enthusiast passionate about developing creative and robu
 * SQL Performance Optimization Tips Part 1: [SQL Performance Optimization Tips Part 1](https://github.com/danvuk567/danvuk567/blob/main/Files/SQL_Performance_Optimization_Tips_Part1.pdf)
 * SQL Performance Optimization Tips Part 2: [SQL Performance Optimization Tips Part 2](https://github.com/danvuk567/danvuk567/blob/main/Files/SQL_Performance_Optimization_Tips_Part2.pdf)
 * SQL Performance Optimization Tips Part 3: [SQL Performance Optimization Tips Part 3](https://github.com/danvuk567/danvuk567/blob/main/Files/SQL_Performance_Optimization_Tips_Part3.pdf)
-* 𝐀 𝐂𝐨𝐦𝐩𝐚𝐫𝐚𝐭𝐢𝐯𝐞 𝐀𝐩𝐩𝐫𝐨𝐚𝐜𝐡 𝐭𝐨 𝐒𝐨𝐥𝐯𝐢𝐧𝐠 𝐁𝐮𝐬𝐢𝐧𝐞𝐬𝐬 𝐔𝐬𝐞 𝐂𝐚𝐬𝐞𝐬: Pivoting Techniques with Excel, Power BI, Python, and SQL: [𝐀 𝐂𝐨𝐦𝐩𝐚𝐫𝐚𝐭𝐢𝐯𝐞 𝐀𝐩𝐩𝐫𝐨𝐚𝐜𝐡 𝐭𝐨 𝐒𝐨𝐥𝐯𝐢𝐧𝐠 𝐁𝐮𝐬𝐢𝐧𝐞𝐬𝐬 𝐔𝐬𝐞 𝐂𝐚𝐬𝐞𝐬: Pivoting Techniques with Excel, Power BI, Python, and SQL](https://github.com/danvuk567/danvuk567/blob/main/Files/Comparative_Approach_Pivoting_Excel_Power_BI_Python_SQL.pdf)
+* Solving Business Use Cases: Pivoting Techniques with Excel, Power BI, Python, and SQL: [Pivoting Techniques with Excel, Power BI, Python, and SQL(https://github.com/danvuk567/danvuk567/blob/main/Files/Comparative_Approach_Pivoting_Excel_Power_BI_Python_SQL.pdf)
 
 # 📊 Projects and Studies
 
