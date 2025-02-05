@@ -2,16 +2,16 @@
 
 # ✋ Introduction
 
-Hi, I'm Dan. I'm a data enthusiast passionate about developing creative and robust solutions to business challenges using a variety of technical tools. With 6 years of experience as a Data Analyst in the finance sector, I have honed new skills in data analysis, reporting, query optimization, ETL development, database design, and data modeling. In addition, I have extensive experience in the retail industry working across various aspects of business intelligence, data integration, software configuration, programming, and reporting. 
+Hi, I'm Dan. I'm a data enthusiast passionate about developing creative and robust solutions to business challenges using a variety of technical tools. With 6 years of experience as a Data Analyst in the finance sector, I have honed new skills in data analysis, reporting, query optimization, ETL development, database design, and data modeling. In addition, I have extensive experience in the retail industry working across various aspects of business intelligence, data integration, custom application interface programming, reporting, and software integration configuration. 
 
 # 🔨 Core Data skills
 
 * Database development and querying data using SQL.
 * Report generation and ad-hoc data analysis using SQL.
-* Dashboard development using Power BI.
+* Dashboard development using Power BI, Advanced Excel and Excel VBA.
 * ETL development using Python, Power Query, and other industry ETL tools.
 * Data analysis using Python, Advanced Excel and Excel VBA.
-* API integration and data processing automation using Python, Unix/Linux, PowerShell.
+* API integration and data processing automation using Python, PowerShell, Unix/Linux.
 
 # 📝 My Documented Knowledge Base Guides (PDF format) 
 
