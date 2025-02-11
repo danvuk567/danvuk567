@@ -1,4 +1,4 @@
-![banner](https://github.com/danvuk567/danvuk567/blob/main/images/banner.jpg?raw=true)
+![banner](https://github.com/danvuk567/danvuk567/blob/main/images/Banner.jpg?raw=true)
 
 # ✋ Introduction
 
