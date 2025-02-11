@@ -13,14 +13,6 @@ Hi, I'm Dan. I'm a data enthusiast passionate about developing creative and robu
 * Data analysis using Python, Advanced Excel and Excel VBA.
 * API integration and data processing automation using Python, PowerShell, Unix/Linux.
 
-# 📝 My Documented Knowledge Base Guides (PDF format) 
-
-* Using Python in Power BI: [Using Python in Power BI](https://github.com/danvuk567/danvuk567/blob/main/Files/Using_Python_In_Power_BI.pdf)
-* SQL Performance Optimization Tips Part 1: [SQL Performance Optimization Tips Part 1](https://github.com/danvuk567/danvuk567/blob/main/Files/SQL_Performance_Optimization_Tips_Part1.pdf)
-* SQL Performance Optimization Tips Part 2: [SQL Performance Optimization Tips Part 2](https://github.com/danvuk567/danvuk567/blob/main/Files/SQL_Performance_Optimization_Tips_Part2.pdf)
-* SQL Performance Optimization Tips Part 3: [SQL Performance Optimization Tips Part 3](https://github.com/danvuk567/danvuk567/blob/main/Files/SQL_Performance_Optimization_Tips_Part3.pdf)
-* Business Use Cases: Pivoting Techniques with Excel, Power BI, Python, SQL: [Pivoting Techniques with Excel, Power BI, Python, and SQL](https://github.com/danvuk567/danvuk567/blob/main/Files/Comparative_Approach_Pivoting_Excel_Power_BI_Python_SQL.pdf)
-
 # 📊 Projects and Studies
 
 Here are a few of my custom work-related projects, practice challenges, and knowledge-based studies that I worked on in the past.
@@ -32,6 +24,14 @@ Here are a few of my custom work-related projects, practice challenges, and know
 * Excel VBA: [Excel VBA Useful Custom Functions](https://github.com/danvuk567/Excel_VBA-Useful-Custom-Functions)
 * SQL: [SQL-Fundamentals-and-Best-Practices](https://github.com/danvuk567/SQL-Fundamentals-and-Best-Practices)
 * Linux Bash commands: [Linux Command Data Analytics](https://github.com/danvuk567/Linux-Command-Data-Analytics)
+
+# 📝 My Documented Knowledge Base Guides (PDF format) 
+
+* Using Python in Power BI: [Using Python in Power BI](https://github.com/danvuk567/danvuk567/blob/main/Files/Using_Python_In_Power_BI.pdf)
+* SQL Performance Optimization Tips Part 1: [SQL Performance Optimization Tips Part 1](https://github.com/danvuk567/danvuk567/blob/main/Files/SQL_Performance_Optimization_Tips_Part1.pdf)
+* SQL Performance Optimization Tips Part 2: [SQL Performance Optimization Tips Part 2](https://github.com/danvuk567/danvuk567/blob/main/Files/SQL_Performance_Optimization_Tips_Part2.pdf)
+* SQL Performance Optimization Tips Part 3: [SQL Performance Optimization Tips Part 3](https://github.com/danvuk567/danvuk567/blob/main/Files/SQL_Performance_Optimization_Tips_Part3.pdf)
+* Business Use Cases: Pivoting Techniques with Excel, Power BI, Python, SQL: [Pivoting Techniques with Excel, Power BI, Python, and SQL](https://github.com/danvuk567/danvuk567/blob/main/Files/Comparative_Approach_Pivoting_Excel_Power_BI_Python_SQL.pdf)
 
 # 🔧 Tools
 
