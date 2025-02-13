@@ -2,7 +2,7 @@
 
 # ✋ Introduction
 
-Hi, I'm Dan. I'm a data enthusiast passionate about developing creative and robust solutions to business challenges using a variety of technical tools. With my current experience as a Data Analyst in the finance sector, I have honed new skills in data analysis, data-driven algorithms, custom application programming, reporting, query optimization, ETL development, database design, and data modeling. In addition, I have extensive experience in the retail industry working across various aspects of business intelligence, data integration, custom application programming, reporting, bash shell scripting, technical support, troubleshooting, and software integration configuration. 
+Hi, I'm Dan. I'm a data enthusiast passionate about developing creative and robust solutions and support for business challenges using a variety of technical tools. With my current experience as a Data Analyst in the finance sector, I have honed new skills in data analysis, data-driven algorithms, custom application programming, reporting, query optimization, ETL development, database design, and data modeling. In addition, I have extensive experience in the retail industry working across various aspects of business intelligence, data integration, custom application programming, reporting, integration and regression testing, bash shell scripting, technical support, troubleshooting, and software integration configuration. 
 
 # 🔨 Core Data skills
 
