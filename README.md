@@ -2,9 +2,9 @@
 
 # ✋ Introduction
 
-Hi, I'm Dan. My motto is the 3 C’s, Curiosity, Creativity, and Consistency. Curiosity: I’m curious by nature and love to learn and apply new things. Creativity: I’ve always had a passion for creating the integral pieces of a project from the ground up and crafting innovative solutions to solve problems. Consistency: I strive for commitment, quality, and timely completion in delivering results. 
+Hi, I'm Dan. My motto is the 3 C’s, Curiosity, Creativity, and Consistency. Curiosity: I’m curious by nature and love to learn and apply new technologies. Creativity: I've always been driven by a passion for developing innovative solutions that address business needs and solve complex challenges. Consistency: I strive for commitment, quality, and timely completion in delivering results. 
 
-I'm also a data enthusiast passionate about developing creative and robust solutions and support for business challenges using a variety of technical tools. With my current experience as a Data Analyst in the finance sector, I have honed new skills in data analysis, data-driven algorithms, custom application programming, reporting, query optimization, ETL development, database design, and data modeling. In addition, I have extensive experience in the retail industry working across various aspects of business intelligence, data integration, custom application programming, reporting, integration and regression testing, bash shell scripting, technical support, troubleshooting, and software integration configuration. 
+I'm also a data enthusiast who is passionate about developing robust solutions to business challenges with expertise in data analysis, data-driven algorithms, custom application programming, reporting, query optimization, ETL development, data modelling, reporting, and software integration configuration.
 
 # 🔨 Core Data skills
 
