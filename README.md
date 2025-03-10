@@ -13,7 +13,7 @@ I'm also a data enthusiast with expertise in data analysis, data-driven algorith
 * Dashboard development using Power BI, Advanced Excel and Excel VBA.
 * Data Integration, API integration, and ETL development using Python, Power Query, and other industry ETL tools such Informatica.
 * Data analysis using Python, Advanced Excel and Excel VBA.
-* API integration and data processing automation using Python, Unix/Linux, PowerShell.
+* Data processing automation using Python, Unix/Linux, PowerShell.
 
 # 📊 Projects and Studies
 
