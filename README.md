@@ -37,8 +37,8 @@ Here are a few of my custom work-related projects, practice challenges, and know
 
 # 🔧 Tools
 
-* Language: SQL, Python, VBA, PL/SQL
-* Database: SQL Server, Azure SQL database, Oracle
+* Language: SQL, PL/SQL, Python, VBA
+* Database: SQL Server, Azure SQL database, Azure Data Studio, Oracle
 * Visualization: Power BI, Excel, Plotly, Matplotlib, Seaborn
 * Scripting: Unix/Linux Bash, PowerShell
 
