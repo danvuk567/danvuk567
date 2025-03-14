@@ -11,7 +11,7 @@ I'm also a data enthusiast with expertise in data analysis, data-driven algorith
 * Database development and querying data using SQL.
 * Report generation and ad-hoc data analysis using SQL.
 * Dashboard development using Power BI, Advanced Excel and Excel VBA.
-* Data Integration, API integration, and ETL development using Python, Power Query (M Language), VBA, and other industry ETL tools such Informatica.
+* Data Integration, API integration, and ETL development using Python, Power Query M, VBA, and other industry ETL tools such Informatica.
 * Data analysis using Python, Advanced Excel and Excel VBA.
 * Data processing and scheduling automation using Python, Unix/Linux, and PowerShell.
 
@@ -37,7 +37,7 @@ Here are a few of my custom work-related projects, practice challenges, and know
 
 # 🔧 Tools
 
-* Language: SQL, PL/SQL, Python, VBA
+* Language: SQL, PL/SQL, Python, VBA, Power Query M
 * Database: SQL Server, Azure SQL database, Azure Data Studio, Oracle
 * Visualization: Power BI, Excel, Plotly, Matplotlib, Seaborn
 * Scripting: Unix/Linux Bash, PowerShell
