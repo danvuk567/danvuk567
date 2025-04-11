@@ -17,7 +17,7 @@ I'm also a data enthusiast with expertise in data analysis, custom programming/s
 
 # 📊 Projects and Studies
 
-Here are a few of my custom work-related projects, practice challenges, and knowledge-based studies that I worked on in the past.
+Here are a few of my custom work-related projects, fun practice challenges, and knowledge-based studies.
 
 * SQL, Python, Power BI, Excel: [S&P 500 Stock Analysis](https://github.com/danvuk567/SP500-Stock-Analysis)
 * Power BI, Python, Excel: [Global Supply Chain Analysis](https://github.com/danvuk567/Global-Supply-Chain-Analysis)
