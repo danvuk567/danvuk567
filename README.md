@@ -8,8 +8,7 @@ I'm also a data enthusiast with expertise in data analysis, custom programming/s
 
 # 🔨 Core Data skills
 
-* Database development and querying data using SQL.
-* Report generation and ad-hoc data analysis using SQL.
+* Database development, querying data and ad-hoc data analysis using SQL.
 * Reports and Dashboard development using Power BI, Advanced Excel and Excel VBA.
 * Data Integration, API integration, and ETL development using Python, Power Query M, VBA, and other industry ETL tools such Informatica.
 * Data analysis using Python, Advanced Excel and Excel VBA.
