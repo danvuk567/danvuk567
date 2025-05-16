@@ -12,7 +12,7 @@ I'm also a data enthusiast with expertise in data analysis, custom programming/s
 * Reports and Dashboard development using Power BI, Advanced Excel and Excel VBA.
 * Data Integration, API integration, and ETL development using Python, Power Query M, VBA, and other industry ETL tools such Informatica.
 * Data analysis using Python, Advanced Excel and Excel VBA.
-* Data validation and regression testing using SQL and Python.
+* Data validation and testing (unit, smoke, integration, regression) using SQL and Python.
 * Data processing and scheduling automation using Power Automate, Unix/Linux, and Python.
 
 # 📊 Projects and Studies
