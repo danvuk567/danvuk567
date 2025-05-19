@@ -20,6 +20,7 @@ I'm also a data enthusiast with expertise in data analysis, custom programming/s
 Here are a few of my custom work-related projects, fun practice challenges, and knowledge-based studies.
 
 * SQL, Python, Power BI, Excel: [S&P 500 Stock Analysis](https://github.com/danvuk567/SP500-Stock-Analysis)
+* Python, Excel: [S&P 500 Stock Analysis](https://github.com/danvuk567/Python-Cafe-Sales-Data-Validation/blob/main/README.md)
 * Power BI, Python, Excel: [Global Supply Chain Analysis](https://github.com/danvuk567/Global-Supply-Chain-Analysis)
 * Power BI, Excel: [Predictive Sales Forecasting](https://github.com/danvuk567/Predictive-Sales-Forecasting)
 * Excel VBA, SQL: [Excel VBA Custom SQL Query Tool](https://github.com/danvuk567/Excel_VBA-Custom-SQL-Query-Tool)
