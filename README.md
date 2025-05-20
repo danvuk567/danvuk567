@@ -21,11 +21,11 @@ Here are a few of my custom work-related projects, fun practice challenges, and 
 
 * SQL, Python, Power BI, Excel: [S&P 500 Stock Data Transformation and Analysis](https://github.com/danvuk567/SP500-Stock-Analysis)
 * Python, SQL, Excel: [Cafe Sales Data Validation and Quality Assurance](https://github.com/danvuk567/Cafe-Sales-Data-Validation)
+* SQL: [SQL-Fundamentals-and-Best-Practices](https://github.com/danvuk567/SQL-Fundamentals-and-Best-Practices)
 * Power BI, Python, Excel: [Global Supply Chain Analysis](https://github.com/danvuk567/Global-Supply-Chain-Analysis)
 * Power BI, Excel: [Predictive Sales Forecasting](https://github.com/danvuk567/Predictive-Sales-Forecasting)
 * Excel VBA, SQL: [Excel VBA Custom SQL Query Tool](https://github.com/danvuk567/Excel_VBA-Custom-SQL-Query-Tool)
 * Excel VBA: [Excel VBA Useful Custom Functions](https://github.com/danvuk567/Excel_VBA-Useful-Custom-Functions)
-* SQL: [SQL-Fundamentals-and-Best-Practices](https://github.com/danvuk567/SQL-Fundamentals-and-Best-Practices)
 * Linux Bash commands: [Linux Command Data Analytics](https://github.com/danvuk567/Linux-Command-Data-Analytics)
 
 # 📝 My Documented Knowledge Base Guides (PDF format) 
