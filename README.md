@@ -52,7 +52,7 @@ Here are a few of my custom work-related projects, fun practice challenges, and 
 
 # 🤝 Connect with Me
 
-![Linkedin Logo](https://github.com/danvuk567/danvuk567/blob/main/images/LinkedIn.png?raw=true) [in/danvukota](https://www.linkedin.com/in/danvukota/)
+![Linkedin Logo](https://github.com/danvuk567/danvuk567/blob/main/images/LinkedIn_small.png?raw=true) [in/danvukota](https://www.linkedin.com/in/danvukota/)
 
   
 
