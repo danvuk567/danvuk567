@@ -11,7 +11,7 @@ Hi, I'm Dan. When I'm not busy with work related projects, I like to have fun wo
 * Reports and Dashboard development using Power BI, Advanced Excel and Excel VBA.
 * Data analysis using Python, Advanced Excel and Excel VBA.
 * Data validation and testing (unit, smoke, integration, regression) using SQL and Python.
-* Data processing and scheduling automation using Power Automate, Unix/Linux, and Python.
+* Data processing and scheduling automation using Unix/Linux Bash, PowerShell, Power Automate, and Python.
 
 # 📊 Projects and Studies
 
