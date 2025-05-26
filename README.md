@@ -7,7 +7,7 @@ Hi, I'm Dan. When I'm not busy with work related projects, I like to have fun wo
 # 🔨 Core Data skills
 
 * Database development, querying data, and ad-hoc data analysis using SQL.
-* Data Integration, API integration, and ETL development using Python, Power Query M, VBA, and other industry ETL tools such as Informatica.
+* Data Integration, API integration, and ETL/ELT development using Python, Power Query M, VBA, and other industry ETL tools such as Informatica.
 * Reports and Dashboard development using Power BI, Advanced Excel and Excel VBA.
 * Data analysis using Python, Advanced Excel and Excel VBA.
 * Data validation and testing (unit, smoke, integration, regression) using SQL and Python.
