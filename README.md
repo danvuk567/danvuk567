@@ -28,11 +28,11 @@ Here are a few of my custom work-related projects, fun practice challenges, and 
 
 # 📝 My Documented Knowledge Base Guides (PDF format) 
 
+* Business Use Cases: Pivoting Techniques with Excel, Power BI, Python, SQL: [Pivoting Techniques with Excel, Power BI, Python, and SQL](https://github.com/danvuk567/danvuk567/blob/main/Files/Comparative_Approach_Pivoting_Excel_Power_BI_Python_SQL.pdf)
+* Using Python in Power BI: [Using Python in Power BI](https://github.com/danvuk567/danvuk567/blob/main/Files/Using_Python_In_Power_BI.pdf)
 * SQL Performance Optimization Tips Part 1: [SQL Performance Optimization Tips Part 1](https://github.com/danvuk567/danvuk567/blob/main/Files/SQL_Performance_Optimization_Tips_Part1.pdf)
 * SQL Performance Optimization Tips Part 2: [SQL Performance Optimization Tips Part 2](https://github.com/danvuk567/danvuk567/blob/main/Files/SQL_Performance_Optimization_Tips_Part2.pdf)
 * SQL Performance Optimization Tips Part 3: [SQL Performance Optimization Tips Part 3](https://github.com/danvuk567/danvuk567/blob/main/Files/SQL_Performance_Optimization_Tips_Part3.pdf)
-* Business Use Cases: Pivoting Techniques with Excel, Power BI, Python, SQL: [Pivoting Techniques with Excel, Power BI, Python, and SQL](https://github.com/danvuk567/danvuk567/blob/main/Files/Comparative_Approach_Pivoting_Excel_Power_BI_Python_SQL.pdf)
-* Using Python in Power BI: [Using Python in Power BI](https://github.com/danvuk567/danvuk567/blob/main/Files/Using_Python_In_Power_BI.pdf)
 
 # 🔧 Tools
 
