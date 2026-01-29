@@ -2,7 +2,7 @@
 
 # ✋ Introduction
 
-Hi, I'm Dan. When I'm not busy with work related projects, I like to have fun working on side projects showcasing my work experience as well as taking on new challenges to grow and develop new skills. I'm a data enthusiast who is curious by nature and loves problem solving. I have expertise in data analysis, data management, data modelling, ETL/ELT development, custom programming/scripting, reporting, query optimization, QA testing, software integration, and application support. My career experience has primarily focused on projects within the Finance and Retail industries.
+Hi, I'm Dan. When I'm not busy with work related projects, I like to have fun working on side projects showcasing my work experience as well as taking on new challenges to grow and develop new skills. I'm a data enthusiast who is curious by nature and loves problem solving. I have expertise in data analysis, data management, data modelling, ETL/ELT development, custom programming/scripting, reporting, query optimization, QA testing, software integration, and application support. My career experience has primarily focused on projects within the Finance and Retail industries. I am currently pursuing a certification in Agentic AI to acquire knowledge and advanced skills in AI tools.
 
 # 🔨 Core Data skills
 
