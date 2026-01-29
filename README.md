@@ -41,7 +41,7 @@ Here are a few of my custom work-related projects, fun practice challenges, and 
 * Visualization: Power BI, Excel, Plotly, Matplotlib, Seaborn
 * Scripting: Unix/Linux Bash, PowerShell
 
-# 🎓 Education
+# 🎓 Education and Certifications
 
 * Concordia University Bachelor of Arts in Statistics
 * [Agentic AI Pioneer Program - Prompt Engineering, Generative AI, AI Agents, RAG Systems etc. (In Progress)](https://www.analyticsvidhya.com/agenticaipioneer/?utm_source=coursehomepage)
