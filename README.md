@@ -44,11 +44,13 @@ Here are a few of my custom work-related projects, fun practice challenges, and 
 # 🎓 Education
 
 * Concordia University Bachelor of Arts in Statistics
+* [Agentic AI Pioneer Program - Prompt Engineering, Generative AI, AI Agents, RAG Systems etc. (In Progress)](https://www.analyticsvidhya.com/agenticaipioneer/?utm_source=coursehomepage)
 * [Datacamp Associate Data Scientist in Python](https://www.datacamp.com/completed/statement-of-accomplishment/track/5b8c8647048f9150e6ce597a98544a9ecb6009e3)
 * [Datacamp AI Business Fundamentals](https://www.datacamp.com/completed/statement-of-accomplishment/track/dbc64a8fcb55c097ea31f7e396dd1f19864c4e2c)
+* [Coursera Microsoft Power BI Data Analyst](https://www.coursera.org/account/accomplishments/specialization/certificate/N9DA5MVENNXH)
 * [Executive Programme in Algorithmic Trading](https://www.credential.net/daf2b3eb-8485-415d-94c7-19264059a51a#gs.gsa1g1)
 * [Coursera Data Warehousing for Business Intelligence](https://www.coursera.org/account/accomplishments/specialization/FJ7WBPQJJZL8)
-* [Coursera Microsoft Power BI Data Analyst](https://www.coursera.org/account/accomplishments/specialization/certificate/N9DA5MVENNXH)
+
 
 # 🤝 Connect with Me
 
